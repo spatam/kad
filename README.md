@@ -38,4 +38,4 @@ If you use the kad dataset in your research, please provide proper citation.
 # Acknowledgments
 Thank you to all participants for their contributions and to the team for their efforts in data collection and processing.
 
-We look forward to seeing how this dataset advances the field of multimodal learning and speaker identification!
+We look forward to seeing how this dataset advances the field of keystroke acoustic attacks vulnerability!
