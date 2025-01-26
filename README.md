@@ -1,7 +1,7 @@
 # kad
 Keystroke Acoustic Dataset (KAD)
 
-Welcome to the official repository for the Keystroke Acoustic Dataset (KAD) dataset, a comprehensive audio dataset designed for keystroke classification research.
+Welcome to the official repository for the Keystroke Acoustic Dataset (KAD) dataset, a comprehensive audio dataset designed for keystroke classification research vulnerability.
 We are pleased to present a new dataset for keystroke attack research, now available on GitHub. 
 This dataset has been recorded using the microphone of a smartphone and based on the methodology outlined by Harrison et al. [1].
 
@@ -24,6 +24,7 @@ In this repository there is only the mechanical dataset, recorded with the above
 For segmentation, each audio file was processed to isolate keystroke sounds, with the start of the segment aligned to the peak time and the end set one second before the click sound, as determined experimentally.
 
 This extensive dataset supports the evaluation of various models and techniques for detecting and analyzing keystroke sounds under realistic conditions. Full details, including the segmentation process and folder organization, are available alongside the dataset.
+Finally, it is important to emphasize that the presented dataset is by no means intended to promote or encourage attacks of this kind, but rather to highlight a vulnerability often overlooked in the cybersecurity landscape.
 
 # Citation
 If you use the kad dataset in your research, please provide proper citation.
