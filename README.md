@@ -9,7 +9,7 @@ We are pleased to present a new dataset for keystroke attack research, now avail
 This is the experiment setup for keystroke with a mechanical keyboard.
 The smartphone is at 17cm from the keyboard position.
 
-![image](https://github.com/user-attachments/assets/7cbcb1ad-84ab-420f-a43b-8071d7f210ce)
+![image](IMG_2433.jpeg)
 
 # Dataset Overview
 
