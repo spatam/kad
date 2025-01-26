@@ -28,7 +28,7 @@ If you use the BioVid dataset in your research, please provide proper citation.
 
 [1] J. Harrison, E. Toreini and M. Mehrnezhad, "A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards," in 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Delft, Netherlands, (2023) pp. 270-280.
 
-[2] J. Harrison, Keystroke-Datasets https://github.com/JBFH-Dev/Keystroke-Datasets (2023)
+[2] J. Harrison, et al. Keystroke-Datasets https://github.com/JBFH-Dev/Keystroke-Datasets (2023)
 
 # Acknowledgments
 Thank you to all participants for their contributions and to the team for their efforts in data collection and processing.
