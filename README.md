@@ -10,7 +10,7 @@ This dataset has been recorded using the microphone of a smartphone and based on
 This is the experiment setup for keystroke with a mechanical keyboard.
 The smartphone is at 17cm from the keyboard position.
 
-![image](GA.jpeg)
+![image](GA.jpg)
 
 # Dataset Overview
 
