@@ -26,6 +26,9 @@ For segmentation, each audio file was processed to isolate keystroke sounds, wit
 This extensive dataset supports the evaluation of various models and techniques for detecting and analyzing keystroke sounds under realistic conditions. Full details, including the segmentation process and folder organization, are available alongside the dataset.
 Finally, it is important to emphasize that the presented dataset is by no means intended to promote or encourage attacks of this kind, but rather to highlight a vulnerability often overlooked in the cybersecurity landscape.
 
+# Source code
+For security reasons, the source code can be requested only by sending a direct request to my email address: massimo.spata@unict.it. We will evaluate each individual request.
+
 # Citation
 If you use the kad dataset in your research, please provide proper citation.
 
