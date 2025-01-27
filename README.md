@@ -23,7 +23,7 @@ After applying data augmentation techniques, the number of audio files in each d
 In this repository there is only the mechanical dataset, recorded with the above desk setup.
 For segmentation, each audio file was processed to isolate keystroke sounds, with the start of the segment aligned to the peak time and the end set one second before the click sound, as determined experimentally.
 
-This extensive dataset supports the evaluation of various models and techniques for detecting and analyzing keystroke sounds under realistic conditions. Full details, including the segmentation process and folder organization, are available alongside the dataset.
+This extensive dataset supports the evaluation of various models and techniques for detecting and analyzing keystroke sounds under realistic conditions. Details, including the folder organization, are available into the dataset.
 Finally, it is important to emphasize that the presented dataset is by no means intended to promote or encourage attacks of this kind, but rather to highlight a vulnerability often overlooked in the cybersecurity landscape.
 
 # Source code
