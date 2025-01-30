@@ -30,8 +30,8 @@ Finally, it is important to emphasize that the presented dataset is by no means 
 For security reasons, the source code can be requested only by sending a direct request to my email address: massimo.spata@unict.it. We will evaluate each individual request.
 
 # Citation
-If you use the kad dataset in your research, please provide proper citation.
-
+If you use the kad dataset in your research, please provide proper citation:
+M. O. Spata, V. M. Russo, A. Ortis and S. Battiato, "A New Pipeline for Snooping Keystroke Based on Deep Learning Algorithm," in IEEE Access, doi: 10.1109/ACCESS.2025.3536877.
 # References
 
 [1] J. Harrison, E. Toreini and M. Mehrnezhad, "A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards," in 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), Delft, Netherlands, (2023) pp. 270-280.
