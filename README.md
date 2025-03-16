@@ -33,7 +33,9 @@ For security reasons, the source code can be requested only by sending a direct 
 If you use the kad dataset in your research, please provide proper citation:
 
 M. O. Spata, V. M. Russo, A. Ortis and S. Battiato, "A New Pipeline for Snooping Keystroke Based on Deep Learning Algorithm," in IEEE Access, doi: 10.1109/ACCESS.2025.3536877.
+
 M. O. Spata, V. M. Russo, A. Ortis and S. Battiato, "Acoustic Side Channel Attack for Keystroke Splitting in the Wild," 2024 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE), St Albans, United Kingdom, 2024, pp. 131-136, doi: 10.1109/MetroXRAINE62247.2024.10796234.
+
 M.O. Spata, V.M. Russo, A. Ortis, S. Battiato (2024). A New Deep Learning Pipeline for Acoustic Attack on Keyboards. In: Arai, K. (eds) Intelligent Systems and Applications. IntelliSys 2024. Lecture Notes in Networks and Systems, vol 1065. Springer, Cham. https://doi.org/10.1007/978-3-031-66329-1_26
 
 Kad DOI: 10.5281/zenodo.14809537
