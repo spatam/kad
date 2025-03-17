@@ -29,6 +29,9 @@ Finally, it is important to emphasize that the presented dataset is by no means 
 # Source code
 For security reasons, the source code can be requested only by sending a direct request to my email address: massimo.spata@unict.it. We will evaluate each individual request.
 
+# Ethical use of Kad Dataset
+The Kad dataset is intended solely for research purposes to highlight a newly discovered vulnerability. Ethical use requires that it not be exploited for malicious activities but rather to improve cybersecurity defenses. Researchers must adhere to ethical guidelines, ensuring responsible handling of the data and transparency in their findings. Any use should align with legal and ethical standards, fostering a safer digital environment by mitigating potential threats rather than enabling exploitation.
+
 # Citation
 If you use the kad dataset in your research, please provide proper citation:
 
