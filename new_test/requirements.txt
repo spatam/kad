@@ -1,0 +1,13 @@
+numpy
+librosa
+PyWavelets
+pydub
+matplotlib
+seaborn
+soundfile
+joblib
+ipykernel
+plotly
+nbclient
+PyYAML
+jupyter
